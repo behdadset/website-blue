@@ -35,7 +35,6 @@
 }
 
 .info{
-    
     display: flex;
 }
 
@@ -55,6 +54,7 @@
 
 .name{
     height: 19px;
+    line-height: 16px;
 }
 
 .infoMessage{
@@ -62,13 +62,15 @@
     height: 43px;
     margin-bottom: 4px;
     line-height: 15px;
-
+    letter-spacing: 0.06px;
+    
 }
 
 .regards{
     height: 18px;
     letter-spacing: 0.2px;
     color: #232323;
+    line-height: 15.8px;
 }
 
 .regardsText{
