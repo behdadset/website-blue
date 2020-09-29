@@ -4,6 +4,9 @@
     margin: 0;
     font-family: 'Lato', sans-serif;
 }
+
+/* Gray page on the background */
+
 .main{
     width: 800px;
     height: 988px;
@@ -13,6 +16,9 @@
     border: 1px solid rgb(235, 235, 235);
 
 }
+
+/* Newsletter page */
+
 .body{
     margin-left: 106px;
     width: 600px;
@@ -20,6 +26,8 @@
     background: #FFFFFF;
     margin-bottom: 18px;
 }
+
+/* Blue top bar */
 
 .top{
     background-color: #37AAE1;
@@ -33,6 +41,8 @@
     width: 139px;
     margin-top: 14px;
 }
+
+/* Message top part */
 
 .info{
     display: flex;
@@ -90,12 +100,16 @@ a{
     color: #37AAE1;
 }
 
+/* Middle picture */
+
 .advertisement{
     margin-left: 33px;
     margin-top: 27px;
     width: 540px;
     height: 362px;
 }
+
+/* Bottom description part */
 
 .bottomBox{
     margin-left: 33px;
@@ -167,6 +181,8 @@ a{
     letter-spacing: 0.39px;
 }
 
+/* View more button */
+
 .more{
     margin-left: 33px;
     width: 165px;
@@ -177,6 +193,8 @@ a{
     font-size: 14px;
     cursor: pointer;
 }
+
+/* Copyright part under the newsletter */
 
 .copyright{
     color: #8C8C8C;
